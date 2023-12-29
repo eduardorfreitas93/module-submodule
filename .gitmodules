@@ -1,3 +1,4 @@
 [submodule "module-standalone"]
 	path = module-standalone
 	url = git@github.com:eduardorfreitas93/module-standalone.git
+	branch = main
